@@ -1,0 +1,17 @@
+.wrap{
+        min-height: 100%;
+        background-size: cover;
+        background-repeat: repeat-y;}
+
+.h1-light {
+  font-size: 56px;
+    color: #fff;
+}
+
+.h5-light {
+    font-size: 20px;
+    color: #fff;
+}
+
+body {
+background-color: #263340;}
