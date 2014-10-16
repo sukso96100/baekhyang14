@@ -1,0 +1,26 @@
+{
+    "schedule": [
+    {
+        "turn":"0",
+       "name":"0번쨰 공연",
+        "performers":"000",
+        "desc":"0번쨰 공연 진행",
+        "img":""
+    },
+         {
+        "turn":"1",
+       "name":"1번쨰 공연",
+        "performers":"111",
+        "desc":"1번쨰 공연 진행",
+        "img":""
+    },
+         {
+        "turn":"2",
+       "name":"2번쨰 공연",
+        "performers":"222",
+        "desc":"2번쨰 공연 진행",
+        "img":""
+    }
+    ]
+        
+}
