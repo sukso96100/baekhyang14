@@ -25,16 +25,16 @@
         <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="css/bootstrap.css">
-        <link rel="stylesheet" href="css/font-awesome.css">
-        <link rel="stylesheet" href="css/custom.css">
-        <title>시온고등학교 백향제 (2014학년도)</title>
+        <link rel="stylesheet" href="../css/bootstrap.css">
+        <link rel="stylesheet" href="../css/font-awesome.css">
+        <link rel="stylesheet" href="../css/custom.css">
+        <title>공연 일정 | 시온고등학교 백향제 (2014학년도)</title>
         
 
 
-        <script src="js/jquery-2.1.1.min.js"></script>
-        <script src="js/bootstrap.js"></script>
-        <script src="js/index.js"></script>
+        <script src="../js/jquery-2.1.1.min.js"></script>
+        <script src="../js/bootstrap.js"></script>
+         <script src="../js/performance.js"></script>
     </head>
     
 <!--    BODY-->
@@ -60,9 +60,9 @@
       <ul class="nav navbar-nav">
       </ul>
       <ul class="nav navbar-nav navbar-right">
-          <li class="active"><a href="#">홈</a></li>
+          <li><a href="#">홈</a></li>
            <li><a href="#">부스 안내</a></li>
-           <li><a href="#">공연 일정</a></li>
+           <li class="active"><a href="#">공연 일정</a></li>
        
       </ul>
     </div><!-- /.navbar-collapse -->
@@ -75,30 +75,18 @@
     <br><br>
             <div align="center">
             
-                <h1 class="h1-light">백향제</h1><br>
-                <h5 class="h5-light">일시 - 2014.12.29<br>
-                    장소 - 시온고등학교</h5>
-                <br><br>
-        <div class="row">
-  <div class="col-md-6">
-      <div class="jumbotron"><br>
-          <i class="fa fa-map-marker fa-5x"></i> &nbsp;
-          <i class="fa fa-question-circle fa-5x"></i><br><br>
-      <h2>부스 안내</h2>
-      <p>오전 시간동안 열리는 각종 부스 위치 확인하기.</p><br>
-          <button type="button" class="btn btn-default">부스 위치 보기</button>
-      </div>
-            </div>
-  <div class="col-md-6">
+               
+                <br>
     <div class="jumbotron"><br>
       <i class="fa fa-music fa-5x"></i> &nbsp;
       <i class="fa fa-calendar fa-5x"></i><br><br>
       <h2>공연 일정</h2>
-      <p>오후 시간동안 진행되는 각종 공연 일정 확인하기.</p><br>
-      <button type="button" class="btn btn-default">공연 일정 보기</button>
+      <p>오후 시간동안 진행되는 각종 공연 일정 확인하기.</p>
       </div>
-            </div>
-</div>
+<!--                공연 일정 컨텐츠-->
+                <div class="panel-group" id="accordion"></div>
+                
+<!--                하단 푸터-->
                 <br><br>
                 
                 <div class="well">2014학년도 시온고등학교 백향제 웹사이트 및 안드로이드 앱 제작 - 한영빈(sukso96100@gmail.com)<br>
