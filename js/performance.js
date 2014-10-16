@@ -23,13 +23,40 @@ var randomn_number = Math.floor((Math.random() * 4) + 1);
 }
 
 //Json 파일 읽기
-$.ajax({
-  dataType: "json",
-  url: 'schedule.json',
-  dataType: "json",
-  success: function (data) {
-      console.log("Done Loading JSON File");
-      console.log("JSON 파일 로드 완료");
-            // JSON 파일 읽어드리기 성공한 경우.
-      }
+$.getJSON( "schedule.json", function( data ) {
+ var DataArray = data.schedule;
+    for(var i=0; i<DataArray.length; i++){
+        console.log(DataArray[i].name);
+        
+    var code1 = '<div class="panel panel-default">\<div class="panel-heading"><h3 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href=';
+    var code2 = '"#collapse'+DataArray[i].turn;
+    var code3 = '">';
+    var code4 = '<span class="label label-default">'+DataArray[i].turn+'</span> ';
+    var code5 = DataArray[i].name +" - "+ DataArray[i].time;
+    var code6 = '</a></h3></div>';
+    var code7 = '<div id="collapse'+DataArray[i].turn+'" class="panel-collapse collapse"><div class="panel-body">';
+    var code8 = '<b>'+DataArray[i].performers+'</b><br>'+DataArray[i].desc;
+    var code9 = '</div></div></div>'
+    
+    var element_code = code1 + code2 + code3 + code4 + code5 + code6 + code7 + code8 + code9;
+  $('#accordion').append(element_code);
+    }
+ 
 });
+
+/*
+ <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+          Collapsible Group Item #3
+        </a>
+      </h4>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse">
+      <div class="panel-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>
+  */
