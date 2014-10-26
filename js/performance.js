@@ -35,7 +35,7 @@ $.getJSON( "schedule.json", function( data ) {
     var code5 = DataArray[i].name +" - "+ DataArray[i].time;
     var code6 = '</a></h3></div>';
     var code7 = '<div id="collapse'+DataArray[i].turn+'" class="panel-collapse collapse"><div class="panel-body">';
-    var code8 = '<b>'+DataArray[i].performers+'</b><br>'+DataArray[i].desc;
+    var code8 = '<b>'+DataArray[i].performers+'</b><br>'+DataArray[i].desc+'<br><br><a href="mailto:'+DataArray[i].email+'">피드백 보내기</a>';
     var code9 = '</div></div></div>'
     
     var element_code = code1 + code2 + code3 + code4 + code5 + code6 + code7 + code8 + code9;
