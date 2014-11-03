@@ -5,9 +5,18 @@
         "title":"LiCUBE 인터넷 카페",
         "location":"컴퓨터실 1실",
         "locationcode":"pc1",
-        "members":"인터넷 카페 운영팀",
-        "desc":"개인당 1시간 무료로 PC이용 제공"
-        
+        "members":"LiCUBE 인터넷 카페 운영팀",
+        "desc":"개인당 1시간 무료로 PC이용 제공",
+        "email":"example@example.com"
+    },
+    "c110": {
+        "title":"LiCUBE 전시 부스",
+        "location":"1학년 10반 교실",
+        "locationcode":"c110",
+        "members":"LiCUBE 전시부스 운영팀",
+        "desc":"LiCUBE 에서 올 한해 동안 다양한 프로젝트를 통해 개발한 작품들 전시예정.",
+        "email":"example@example.com"
     }
+    
         
 }

@@ -22,16 +22,16 @@ var randomn_number = Math.floor((Math.random() * 4) + 1);
    
 }
 
-function showBoothInfo(locationcode){
+function showBoothInfo(code){
     $.getJSON( "booth.json", function( data ) {
- var DataObj = getObjects(data, locationcode, locationcode); 
-    $('#booth_title').append(DataObj.title);
-        
+        var DataObj = eval("data."+code.toString());
+        document.getElementById("booth_title").innerHTML = DataObj.title;
+        console.log("부스 이름 - "+DataObj.title);
         var code1 = '<b>위치</b> '+DataObj.location+'<br>';
         var code2 = '<b>부스 운영하는 사람/단체</b> '+DataObj.members+'<br>';
         var code3 = DataObj.desc+'<br><a href="mailto:'+DataObj.email+'">피드백 보내기<a/>';
         var codes = code1 + code2 + code3;
-        $('#booth_desc').append(DataObj.title);
+        document.getElementById("booth_desc").innerHTML = codes;
  
 });
 }
