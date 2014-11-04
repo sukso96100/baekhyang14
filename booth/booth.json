@@ -1,5 +1,3 @@
-
-
 {
     "household":{
         "title":"",
@@ -211,7 +209,194 @@
         "members":"",
         "desc":"",
         "email":""
-    }
+    },
     
+    
+    
+    "physics":{
+        "title":"",
+        "location":"물리 실험실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c301":{
+        "title":"",
+        "location":"3-1교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c302":{
+        "title":"",
+        "location":"3-2교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c201":{
+        "title":"",
+        "location":"2-1교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c202":{
+        "title":"",
+        "location":"2-2교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c203":{
+        "title":"",
+        "location":"2-3교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c204":{
+        "title":"",
+        "location":"2-4교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c205":{
+        "title":"",
+        "location":"2-5교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c206":{
+        "title":"",
+        "location":"2-6교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c207":{
+        "title":"",
+        "location":"2-7교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c208":{
+        "title":"",
+        "location":"2-8교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c209":{
+        "title":"",
+        "location":"2-9교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c215":{
+        "title":"",
+        "location":"2-15교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    
+    
+    
+    "earth":{
+        "title":"",
+        "location":"지구과학 실험실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c303":{
+        "title":"",
+        "location":"3-3",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c304":{
+        "title":"",
+        "location":"3-4교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c305":{
+        "title":"",
+        "location":"3-5교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c306":{
+        "title":"",
+        "location":"3-6교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c307":{
+        "title":"",
+        "location":"3-7교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c308":{
+        "title":"",
+        "location":"3-8교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c309":{
+        "title":"",
+        "location":"3-9교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c310":{
+        "title":"",
+        "location":"3-10교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c311":{
+        "title":"",
+        "location":"3-11교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c312":{
+        "title":"",
+        "location":"3-12교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c313":{
+        "title":"",
+        "location":"3-13교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c314":{
+        "title":"",
+        "location":"3-14교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    }
         
 }
