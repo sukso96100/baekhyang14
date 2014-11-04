@@ -10,7 +10,7 @@
     },
     "health":{
         "title":"",
-        "location":"보고서",
+        "location":"보건실",
         "members":"",
         "desc":"",
         "email":""
@@ -46,36 +46,168 @@
         "email":""
     },
     "c112":{
-        "title":"1-12교실",
-        "location":"",
+        "title":"",
+        "location":"1-12교실",
         "members":"",
         "desc":"",
         "email":""
     },
     "c113":{
         "title":"",
-        "location":"",
+        "location":"1-13교실",
         "members":"",
         "desc":"",
         "email":""
     },
     "c114":{
         "title":"",
-        "location":"",
+        "location":"1-14교실",
         "members":"",
         "desc":"",
         "email":""
     },
     "c115":{
         "title":"",
-        "location":"",
+        "location":"1-15교실",
         "members":"",
         "desc":"",
         "email":""
     },
     "weeclass":{
         "title":"",
-        "location":"",
+        "location":"Wee Class 진로진학 상담실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    
+    
+    
+    "biolab":{
+        "title":"",
+        "location":"생물 실험실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c101":{
+        "title":"",
+        "location":"1-1교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c102":{
+        "title":"",
+        "location":"1-2교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c103":{
+        "title":"",
+        "location":"1-3교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c104":{
+        "title":"",
+        "location":"1-15교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "zbs":{
+        "title":"",
+        "location":"방송실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c105":{
+        "title":"",
+        "location":"1-5교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c106":{
+        "title":"",
+        "location":"1-6교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c107":{
+        "title":"",
+        "location":"1-7교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c108":{
+        "title":"",
+        "location":"1-8교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c109":{
+        "title":"",
+        "location":"1-9교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    
+    
+    
+    "chemistry":{
+        "title":"",
+        "location":"화학 실험실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c210":{
+        "title":"",
+        "location":"2-10교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c211":{
+        "title":"",
+        "location":"2-11교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c212":{
+        "title":"",
+        "location":"2-12교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c213":{
+        "title":"",
+        "location":"2-13교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "c214":{
+        "title":"",
+        "location":"2-14교실",
+        "members":"",
+        "desc":"",
+        "email":""
+    },
+    "language":{
+        "title":"",
+        "location":"어학실",
         "members":"",
         "desc":"",
         "email":""
