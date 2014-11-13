@@ -4,7 +4,7 @@
     "schedule": [
     {
         "turn":"0",
-       "name":"0번쨰 공연",
+       "title":"0번쨰 공연",
         "performers":"000",
         "time":"0-1시",
         "desc":"0번쨰 공연 진행",
@@ -13,7 +13,7 @@
     },
          {
         "turn":"1",
-       "name":"1번쨰 공연",
+       "title":"1번쨰 공연",
         "performers":"111",
         "time":"1-2시",
         "desc":"1번쨰 공연 진행",
@@ -22,7 +22,7 @@
     },
          {
         "turn":"2",
-       "name":"2번쨰 공연",
+       "title":"2번쨰 공연",
         "performers":"222",
         "time":"2-3시",
         "desc":"2 E 콩 KONG 2 E 콩 KONG 2 E 콩 KONG 2 E 콩 KONG 2 E 콩 KONG 2 E 콩 KONG 2 E 콩 KONG 2 E 콩 KONG 2 E 콩 KONG 2 E 콩 KONG 2 E 콩 KONG 2 E 콩 KONG 2 E 콩 KONG 2 E 콩 KONG 2 E 콩 KONG 콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩콩",
@@ -31,7 +31,7 @@
     },
     {
         "turn":"3",
-       "name":"33번쨰 공연",
+       "title":"33번쨰 공연",
         "performers":"111",
         "time":"1-3시",
         "desc":"13번쨰 공연 진행",
@@ -39,8 +39,8 @@
         "email":"example@example.com"
     },
     {
-        "turn":"1",
-       "name":"1번쨰 공연",
+        "turn":"4",
+       "title":"1번쨰 공연",
         "performers":"111",
         "time":"1-2시",
         "desc":"1번쨰 공연 진행",
@@ -49,8 +49,8 @@
     }
     ,
     {
-        "turn":"3",
-       "name":"33번쨰 공연",
+        "turn":"5",
+       "title":"33번쨰 공연",
         "performers":"111",
         "time":"1-3시",
         "desc":"13번쨰 공연 진행",
@@ -59,8 +59,8 @@
     }
     ,
     {
-        "turn":"3",
-       "name":"33번쨰 공연",
+        "turn":"6",
+       "title":"33번쨰 공연",
         "performers":"111",
         "time":"1-3시",
         "desc":"13번쨰 공연 진행",

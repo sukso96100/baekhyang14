@@ -26,13 +26,13 @@ var randomn_number = Math.floor((Math.random() * 4) + 1);
 $.getJSON( "schedule.json", function( data ) {
  var DataArray = data.schedule;
     for(var i=0; i<DataArray.length; i++){
-        console.log(DataArray[i].name);
+        console.log(DataArray[i].title);
         
     var code1 = '<div class="panel panel-default">\<div class="panel-heading"><h3 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href=';
     var code2 = '"#collapse'+DataArray[i].turn;
     var code3 = '">';
     var code4 = '<span class="label label-default">'+DataArray[i].turn+'</span> ';
-    var code5 = DataArray[i].name +" - "+ DataArray[i].time;
+    var code5 = DataArray[i].title +" - "+ DataArray[i].time;
     var code6 = '</a></h3></div>';
     var code7 = '<div id="collapse'+DataArray[i].turn+'" class="panel-collapse collapse"><div class="panel-body">';
     var code8 = '<b>'+DataArray[i].performers+'</b><br>'+DataArray[i].desc+'<br><br><a href="mailto:'+DataArray[i].email+'">피드백 보내기</a>';
