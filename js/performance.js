@@ -42,6 +42,7 @@ $.getJSON( "schedule.json", function( data ) {
     var code9 = '</div></div></div>'
     
     var element_code = code1 + code2 + code3 + code4 + code5 + code6 + code7 + code8 + code9;
+    element_code.replace(/\n/gi, “<br>”);
   $('#accordion').append(element_code);
     }
  
