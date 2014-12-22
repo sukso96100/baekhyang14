@@ -4,10 +4,10 @@
     "schedule": [
     {
         "turn":"0",
-       "title":"0번쨰 공연",
-        "performers":"000",
+       "title":"식전행사",
+        "performers":"심정훈(학생회장), 임원재(남학생부회장), 정유진(여학생부회장)",
         "time":"0-1시",
-        "desc":"0번쨰 공연 진행",
+        "desc":"교장선생님 인사말",
         "img":"",
         "email":"example@example.com"
     },
