@@ -22,6 +22,7 @@ var randomn_number = Math.floor((Math.random() * 4) + 1);
    
 }
 
+function loadSchedule(){
 //Json 파일 읽기
 $.getJSON( "schedule.json", function( data ) {
  var DataArray = data.schedule;
@@ -43,7 +44,7 @@ $.getJSON( "schedule.json", function( data ) {
     }
  
 });
-
+}
 /*
  <div class="panel panel-default">
     <div class="panel-heading">
