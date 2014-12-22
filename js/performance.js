@@ -23,6 +23,7 @@ var randomn_number = Math.floor((Math.random() * 4) + 1);
 }
 
 function loadSchedule(){
+   console.log("공연일정 로드 중...");
 //Json 파일 읽기
 $.getJSON( "schedule.json", function( data ) {
  var DataArray = data.schedule;
