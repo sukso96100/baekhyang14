@@ -77,13 +77,147 @@
     ,
     {
         "turn":"6",
-       "title":"33번쨰 공연",
+       "title":"댄스공연",
+        "performers":"FLY - 18명 출연",
+        "time":"1-3시",
+        "desc":"댄스공연
+\n\n
+출연자 : 이가람(20418),염세은(20712),
+임희주(20723),김은영(20808),오아림(21416),임효정(20824),김아람(11306),전예빈(11324),최지현(11025),유별이(11215),고성민(21302),신현준(20517),장규영(20621),이시재(21216),이성미(11216),정한서(11327),김소민(11405),김윤화(11106)
+\n\n
+지도교사 : 박명애",
+        "img":"",
+        "email":"example@example.com"
+    },
+    {
+        "turn":"7",
+       "title":"찬조공연",
+        "performers":"김윤화(11106), 최지혜(11426), 정화원(11522)
+노수현(범박고), 최련(범박고)",
+        "time":"1-3시",
+        "desc":"루키페로스 11기",
+        "img":"",
+        "email":"example@example.com"
+    },
+    {
+        "turn":"8",
+       "title":"미스 시온 선발대회",
+        "performers":"송진석(30716), 윤승훤(20176), 김종록(20403), 석호연(20221), 황정민(10230), 전민성(10823), 민윤홍(10309), 권기용(20302)",
+        "time":"1-3시",
+        "desc":"미즈 시온 선발대회 진행",
+        "img":"",
+        "email":"example@example.com"
+    },
+    {
+        "turn":"9",
+       "title":"슈퍼스타 Z (1/8)",
+        "performers":"204 - 19명 출연",
+        "time":"1-3시",
+        "desc":"특별공연 진행
+\n\n
+출연자 : 이유진(20420),박세린(20410),손지양(20412),이지수(20421),오해인(20416),김수진(20402),김혜지(20405),나수지(20406),문영서(20408),모다영(20407),박민희(20409),서희진(20411),송승은(20414),이가람(20418),이승주(20419),장희재(20427),장소연(20426),주하나(20428),최지우(20430)",
+        "img":"",
+        "email":"example@example.com"
+    },
+    {
+        "turn":"10",
+       "title":"슈퍼스타 Z (2/8)",
         "performers":"111",
         "time":"1-3시",
         "desc":"13번쨰 공연 진행",
         "img":"",
         "email":"example@example.com"
-    }
+    },
+    {
+        "turn":"11",
+       "title":"슈퍼스타 Z (3/8)",
+        "performers":"111",
+        "time":"1-3시",
+        "desc":"13번쨰 공연 진행",
+        "img":"",
+        "email":"example@example.com"
+    },
+    {
+        "turn":"12",
+       "title":"슈퍼스타 Z (4/8)",
+        "performers":"111",
+        "time":"1-3시",
+        "desc":"13번쨰 공연 진행",
+        "img":"",
+        "email":"example@example.com"
+    },
+    {
+        "turn":"13",
+       "title":"슈퍼스타 Z (5/8)",
+        "performers":"111",
+        "time":"1-3시",
+        "desc":"13번쨰 공연 진행",
+        "img":"",
+        "email":"example@example.com"
+    },
+    
+    {
+        "turn":"14",
+       "title":"슈퍼스타 Z (6/8)",
+        "performers":"111",
+        "time":"1-3시",
+        "desc":"13번쨰 공연 진행",
+        "img":"",
+        "email":"example@example.com"
+    },
+    {
+        "turn":"15",
+       "title":"슈퍼스타 Z (7/8)",
+        "performers":"111",
+        "time":"1-3시",
+        "desc":"13번쨰 공연 진행",
+        "img":"",
+        "email":"example@example.com"
+    },
+    {
+        "turn":"16",
+       "title":"슈퍼스타 Z (8/8)",
+        "performers":"111",
+        "time":"1-3시",
+        "desc":"13번쨰 공연 진행",
+        "img":"",
+        "email":"example@example.com"
+    },
+    {
+        "turn":"17",
+       "title":"찬조공연",
+        "performers":"111",
+        "time":"1-3시",
+        "desc":"13번쨰 공연 진행",
+        "img":"",
+        "email":"example@example.com"
+    },
+    {
+        "turn":"18",
+       "title":"뮤지컬",
+        "performers":"111",
+        "time":"1-3시",
+        "desc":"13번쨰 공연 진행",
+        "img":"",
+        "email":"example@example.com"
+    },
+    {
+        "turn":"19",
+       "title":"Sum 11",
+        "performers":"111",
+        "time":"1-3시",
+        "desc":"13번쨰 공연 진행",
+        "img":"",
+        "email":"example@example.com"
+    },
+    {
+        "turn":"6",
+       "title":"정적 공연",
+        "performers":"111",
+        "time":"1-3시",
+        "desc":"13번쨰 공연 진행",
+        "img":"",
+        "email":"example@example.com"
+    },
     ]
-        
 }
