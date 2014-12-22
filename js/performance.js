@@ -26,6 +26,7 @@ function loadSchedule(){
    console.log("공연일정 로드 중...");
 //Json 파일 읽기
 $.getJSON( "schedule.json", function( data ) {
+    console.log("공연일정 로드 중... - 파일 로드 됨");
  var DataArray = data.schedule;
     for(var i=0; i<DataArray.length; i++){
         console.log(DataArray[i].title);
