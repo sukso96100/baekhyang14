@@ -43,6 +43,7 @@ $.getJSON( "schedule.json", function( data ) {
     
     var element_code = code1 + code2 + code3 + code4 + code5 + code6 + code7 + code8 + code9;
     element_code.replace(/\n/g, "<br>");
+    element_code.replace(/\\r\\n/g, "<br>");
   $('#accordion').append(element_code);
     }
  
