@@ -19,7 +19,7 @@ var randomn_number = Math.floor((Math.random() * 4) + 1);
             console.log("배경 - performance.jpg");
             break;
     }
-   
+   loadSchedule()
 }
 
 function loadSchedule(){
