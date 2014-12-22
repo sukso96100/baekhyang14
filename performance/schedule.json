@@ -73,7 +73,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "7.5",
+            "turn": "7-1",
             "title": "초청공연",
             "performers": "코미디 빅리그 동명왈 팀 - 3명 출연",
             "time": "1-3시",
@@ -163,7 +163,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "16.5",
+            "turn": "16-1",
             "title": "슈퍼스타 Z 시상식",
             "performers": "최시현(2-6), 최효선(2-8)",
             "time": "1-3시",
