@@ -91,7 +91,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "9-2",
+            "turn": "9-1",
             "title": "슈퍼스타 Z (1/8)",
             "performers": "204 - 19명 출연",
             "time": "1-3시",
@@ -100,7 +100,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "9-3",
+            "turn": "9-2",
             "title": "슈퍼스타 Z (2/8)",
             "performers": "권두원, 이한영",
             "time": "1-3시",
@@ -109,7 +109,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "9-4",
+            "turn": "9-3",
             "title": "슈퍼스타 Z (3/8)",
             "performers": "장수궁뎅이 - 5명 출연",
             "time": "1-3시",
@@ -118,7 +118,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "9-5",
+            "turn": "9-4",
             "title": "슈퍼스타 Z (4/8)",
             "performers": "김건유, 석호현",
             "time": "1-3시",
@@ -127,7 +127,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "9-6",
+            "turn": "9-5",
             "title": "슈퍼스타 Z (5/8)",
             "performers": "난데스까 - 4명 출연",
             "time": "1-3시",
@@ -136,7 +136,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "9-7",
+            "turn": "9-6",
             "title": "슈퍼스타 Z (6/8)",
             "performers": "irreplaceable - 2명 출연",
             "time": "1-3시",
@@ -145,7 +145,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "9-8",
+            "turn": "9-7",
             "title": "슈퍼스타 Z (7/8)",
             "performers": "주바효준 - 7명 출연",
             "time": "1-3시",
@@ -154,7 +154,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "9-9",
+            "turn": "9-8",
             "title": "슈퍼스타 Z (8/8)",
             "performers": "나니고래 - 4명 출연",
             "time": "1-3시",
@@ -163,7 +163,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "9-10",
+            "turn": "9-9",
             "title": "슈퍼스타 Z 시상식",
             "performers": "최시현(2-6), 최효선(2-8)",
             "time": "1-3시",
