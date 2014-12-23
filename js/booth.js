@@ -27,6 +27,9 @@ function showBoothInfo(code){
         var DataObj = eval("data."+code.toString());
         document.getElementById("booth_title").innerHTML = DataObj.title;
         console.log("부스 이름 - "+DataObj.title);
+        var MailToString = "mailto:"+DataObj.email+"?subject=다음에 대한 피드백"+DataObj.title+
+                        "&body=제목:"+DataObj.title+"<br>순서:"+DataObj.location+"<br>자세한 내용:"+DataObj.desc+"피드백 내용";
+        
         var code1 = '<b>위치</b> '+DataObj.location+'<br>';
         var code2 = '<b>부스 운영하는 사람/단체</b> '+DataObj.members+'<br>';
         var code3 = DataObj.desc+'<br><a href="mailto:'+DataObj.email+'">피드백 보내기<a/>';
