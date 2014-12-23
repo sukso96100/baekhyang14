@@ -32,7 +32,7 @@ function showBoothInfo(code){
         
         var code1 = '<b>위치</b> '+DataObj.location+'<br>';
         var code2 = '<b>부스 운영하는 사람/단체</b> '+DataObj.members+'<br>';
-        var code3 = DataObj.desc+'<br><a href="mailto:'+DataObj.email+'">피드백 보내기<a/>';
+        var code3 = DataObj.desc+'<br><a href="'+MailToString+'">피드백 보내기<a/>';
         var codes = code1 + code2 + code3;
         document.getElementById("booth_desc").innerHTML = codes;
  
