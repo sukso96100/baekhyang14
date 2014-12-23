@@ -64,8 +64,8 @@
             "email": "example@example.com"
         },
         {
-            "turn": "7",
-            "title": "찬조공연",
+            "turn": "7-1",
+            "title": "찬조공연(1/3)",
             "performers": "김윤화(11106), 최지혜(11426), 정화원(11522), 노수현(범박고), 최련(범박고)",
             "time": "1-3시",
             "desc": "루키페로스 11기",
@@ -73,9 +73,9 @@
             "email": "example@example.com"
         },
         {
-            "turn": "7-1",
-            "title": "초청공연",
-            "performers": "코미디 빅리그 동명왈 팀 - 3명 출연",
+            "turn": "7-2",
+            "title": "찬조공연(2/3)",
+            "performers": "코미디 빅리그 동명왈 팀, 걸그룹 풍뎅이",
             "time": "1-3시",
             "desc": "????",
             "img": "",
@@ -91,7 +91,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "9",
+            "turn": "9-2",
             "title": "슈퍼스타 Z (1/8)",
             "performers": "204 - 19명 출연",
             "time": "1-3시",
@@ -100,7 +100,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "10",
+            "turn": "9-3",
             "title": "슈퍼스타 Z (2/8)",
             "performers": "권두원, 이한영",
             "time": "1-3시",
@@ -109,7 +109,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "11",
+            "turn": "9-4",
             "title": "슈퍼스타 Z (3/8)",
             "performers": "장수궁뎅이 - 5명 출연",
             "time": "1-3시",
@@ -118,7 +118,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "12",
+            "turn": "9-5",
             "title": "슈퍼스타 Z (4/8)",
             "performers": "김건유, 석호현",
             "time": "1-3시",
@@ -127,7 +127,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "13",
+            "turn": "9-6",
             "title": "슈퍼스타 Z (5/8)",
             "performers": "난데스까 - 4명 출연",
             "time": "1-3시",
@@ -136,7 +136,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "14",
+            "turn": "9-7",
             "title": "슈퍼스타 Z (6/8)",
             "performers": "irreplaceable - 2명 출연",
             "time": "1-3시",
@@ -145,7 +145,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "15",
+            "turn": "9-8",
             "title": "슈퍼스타 Z (7/8)",
             "performers": "주바효준 - 7명 출연",
             "time": "1-3시",
@@ -154,7 +154,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "16",
+            "turn": "9-9",
             "title": "슈퍼스타 Z (8/8)",
             "performers": "나니고래 - 4명 출연",
             "time": "1-3시",
@@ -163,7 +163,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "16-1",
+            "turn": "9-10",
             "title": "슈퍼스타 Z 시상식",
             "performers": "최시현(2-6), 최효선(2-8)",
             "time": "1-3시",
@@ -172,8 +172,8 @@
             "email": "example@example.com"
         },
         {
-            "turn": "17",
-            "title": "찬조공연",
+            "turn": "10",
+            "title": "찬조공연(3/3)",
             "performers": "김평번, 임의빈(졸업생)",
             "time": "1-3시",
             "desc": "랩공연",
@@ -181,7 +181,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "18",
+            "turn": "11",
             "title": "뮤지컬",
             "performers": "연극부 - 14명 출연",
             "time": "1-3시",
@@ -190,7 +190,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "19",
+            "turn": "12",
             "title": "Sum 11",
             "performers": "Sum11 - 10명 출연",
             "time": "1-3시",
@@ -199,7 +199,7 @@
             "email": "example@example.com"
         },
         {
-            "turn": "20",
+            "turn": "13",
             "title": "정적 공연",
             "performers": "정적 - 10명 출연",
             "time": "1-3시",
