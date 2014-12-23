@@ -31,8 +31,8 @@ $.getJSON( "schedule.json", function( data ) {
     for(var i=0; i<DataArray.length; i++){
         console.log(DataArray[i].title);
     
-    var MailToString = "mailto:"+DataArray[i].email+"?subject=다음에 대한 피드백"+DataArray[i].title+
-                        "&body=제목:"+DataArray[i].title+"<br>순서:"+DataArray[i].turn+"<br>자세한 내용:"+DataArray[i].desc+"피드백 내용";
+    var MailToString = "mailto:"+DataArray[i].email+"?subject=다음에 대한 피드백:"+DataArray[i].title+
+                        "&body=제목:"+DataArray[i].title+"<br>순서:"+DataArray[i].turn+"<br>자세한 내용:"+DataArray[i].desc+"<br>피드백 내용:";
         
     var code1 = '<div class="panel panel-default">\<div class="panel-heading"><h3 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href=';
     var code2 = '"#collapse'+DataArray[i].turn;
