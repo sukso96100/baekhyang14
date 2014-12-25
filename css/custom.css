@@ -15,3 +15,9 @@
 
 body {
 background-color: #263340;}
+
+#boothmap {
+    overflow: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
