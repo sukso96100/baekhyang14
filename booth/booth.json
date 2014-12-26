@@ -1,4 +1,9 @@
 {
+    "first_floor":["",""]
+    "second_floor":[]
+    "third_floor":[]
+    "forth_floor":[]
+    "fifth_floor":[]
     "household":{
         "title":"",
         "location":"가사실",
