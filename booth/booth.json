@@ -37,56 +37,56 @@
         "email":"sukso96100@gmail.com"
     },
     "c111":{
-        "title":"",
+        "title":"마술부",
         "location":"1-11교실",
-        "members":"",
-        "desc":"",
-        "email":""
+        "members":"마술부",
+        "desc":"마술 시연 및 타로점 개업",
+        "email":"joung8683@naver.com"
     },
     "c112":{
-        "title":"",
+        "title":"도서부",
         "location":"1-12교실",
-        "members":"",
-        "desc":"",
-        "email":""
+        "members":"도서부",
+        "desc":"공모전 및 먹거리 판매",
+        "email":"kuwa12345@naver.com"
     },
     "c113":{
-        "title":"",
+        "title":"한별단",
         "location":"1-13교실",
-        "members":"",
-        "desc":"",
+        "members":"한별단",
+        "desc":"추억의 먹거리 판매",
         "email":""
     },
     "c114":{
-        "title":"",
+        "title":"한별단",
         "location":"1-14교실",
-        "members":"",
-        "desc":"",
+        "members":"한별단",
+        "desc":"추억의 먹거리 판매",
         "email":""
     },
     "c115":{
-        "title":"",
+        "title":"건축봉사부",
         "location":"1-15교실",
-        "members":"",
-        "desc":"",
+        "members":"건축봉사부",
+        "desc":"카페 운영",
         "email":""
     },
     "weeclass":{
-        "title":"",
+        "title":"또래상담부 상담 카페",
         "location":"Wee Class 진로진학 상담실",
-        "members":"",
-        "desc":"",
+        "members":"또래상담부",
+        "desc":"Wee 상담 카페 운영",
         "email":""
     },
     
     
     
     "biolab":{
-        "title":"",
+        "title":"과학탐구부",
         "location":"생물 실험실",
-        "members":"",
-        "desc":"",
-        "email":""
+        "members":"과학탐구부",
+        "desc":"다용도 LED 후레쉬 만들기",
+        "email":"97gusdud0304@naver.com"
     },
     "c101":{
         "title":"",
@@ -124,31 +124,31 @@
         "email":""
     },
     "c105":{
-        "title":"",
+        "title":"보건부",
         "location":"1-5교실",
-        "members":"",
-        "desc":"",
+        "members":"보건부",
+        "desc":"보건관련 체험 및 먹거리 판매",
         "email":""
     },
     "c106":{
-        "title":"",
+        "title":"교지편집부",
         "location":"1-6교실",
-        "members":"",
-        "desc":"",
-        "email":""
+        "members":"교지편집부",
+        "desc":"미니오뎅, 치즈스틱 판매",
+        "email":"smrsb456@naver.com"
     },
     "c107":{
-        "title":"",
+        "title":"유토피아 암실카페",
         "location":"1-7교실",
-        "members":"",
-        "desc":"",
+        "members":"유토피아",
+        "desc":"암실카페 운영",
         "email":""
     },
     "c108":{
-        "title":"",
+        "title":"드로잉(만화)",
         "location":"1-8교실",
-        "members":"",
-        "desc":"",
+        "members":"드로잉(만화)",
+        "desc":"작품전시회 및 페이스 페인팅",
         "email":""
     },
     "c109":{
@@ -162,10 +162,10 @@
     
     
     "chemistry":{
-        "title":"",
+        "title":"응용화학부",
         "location":"화학 실험실",
-        "members":"",
-        "desc":"",
+        "members":"응용화학부",
+        "desc":""알코올 권총, 립글로즈, 알루미늄 목걸이 만들기"",
         "email":""
     },
     "c210":{
@@ -204,21 +204,21 @@
         "email":""
     },
     "language":{
-        "title":"",
+        "title":"PASS 고교생 기자단 카페",
         "location":"어학실",
-        "members":"",
-        "desc":"",
+        "members":"PASS 고교생 기자단",
+        "desc":"뉴스 전시 및 카페 운영",
         "email":""
     },
     
     
     
     "physics":{
-        "title":"",
+        "title":"과학마니아",
         "location":"물리 실험실",
-        "members":"",
-        "desc":"",
-        "email":""
+        "members":"과학마니아",
+        "desc":""스테인레스 에칭 판화 열쇠고리 만들기"",
+        "email":"pmb0171@naver.com"
     },
     "c301":{
         "title":"",
