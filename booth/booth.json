@@ -2,7 +2,7 @@
     "first_floor":["pc1","c110","c111","c112","c113","c114","c115","weeclass"],
     "second_floor":["biolab","c104","c105","c106","c107","c108"],
     "third_floor":["chemistry","language"],
-    "forth_floor":["physics"],
+    "fourth_floor":["physics"],
     "fifth_floor":[],
     "household":{
         "title":"",
